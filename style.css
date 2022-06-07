@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Kumbh+Sans:wght@400;700&display=swap");
+
+body {
+  color: black;
+  background-image: url(/assets/workplace.jpg);
+  font-family: "Inter", sans-serif;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+#container {
+  display: flex;
+  background-color: aliceblue;
+  width: 1000px;
+  height: 500px;
+  border-radius: 50px;
+  justify-content: center;
+  margin: 100px;
+  margin-right: 50px;
+}
+
+#clock {
+  color: black;
+  font-size: 100px;
+  font-style: normal;
+  text-align: center;
+  justify-content: center;
+}
