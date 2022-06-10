@@ -90,7 +90,6 @@ body {
 .round-frame:hover{
   background: pink;
   transition: 2s;
-  cursor: pointer;
   
 }
 
@@ -107,7 +106,6 @@ body {
 .rectangle-frame:hover{
   background: pink;
   transition: 2s;
-  cursor: pointer;
 }
 
 footer{
